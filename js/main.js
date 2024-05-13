@@ -5,5 +5,12 @@ createApp({
     return {
       message: 'Hello Vue!'
     }
+  },
+  methods: {
+
+  },
+  mounted (){
+    
   }
+
 }).mount('#app')
